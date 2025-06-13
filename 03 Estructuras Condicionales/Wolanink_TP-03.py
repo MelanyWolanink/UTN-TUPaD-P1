@@ -1,4 +1,4 @@
-# Trabajo Práctico 1 - Condicionales
+# Trabajo Práctico 3 - Condicionales
 
 Materia: **Programación I**  
 Carrera: **Tecnicatura Universitaria en Programación**  
